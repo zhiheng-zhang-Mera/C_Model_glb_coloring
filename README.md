@@ -37,4 +37,4 @@
 |--|--|--|
 | <img src="./Pic-1.jpg"> | <img src="./Pic-2.jpg"> | <img src="./Pic-3.jpg"> |
 
-![Running Demo GIF](./Coloring_Demo.gif)
+![Running Demo](./Rotate_Zoom_Demo.gif)
