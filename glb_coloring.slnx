@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="glb_coloring.vcxproj" Id="858ec5f3-f722-4bb4-a7f9-246c2451d859" />
+</Solution>
