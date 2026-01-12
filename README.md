@@ -30,3 +30,11 @@
 ├── stb_image_write.h     # (TinyGLTF 依赖)
 ├── model.glb             # 目标模型文件 (必须存在)
 └── README.md             
+```
+
+## 运行演示和实物原型 (Running Demo & Model Prototype)
+||||
+|--|--|--|
+| <img src="./Pic-1.jpg"> | <img src="./Pic-2.jpg"> | <img src="./Pic-3.jpg"> |
+
+![Running Demo GIF](./Coloring_Demo.gif)
